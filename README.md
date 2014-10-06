@@ -1,5 +1,6 @@
 RaptorJS Optimizer
 ==================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/raptorjs/optimizer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The RaptorJS Optimizer is a Node.js-style module bundler that also provides first-level support for optimally delivering JavaScript, CSS, images and other assets to the browser.
 
